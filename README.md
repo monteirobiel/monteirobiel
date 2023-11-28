@@ -1,10 +1,13 @@
 <h1>I am Gabriel Monteiro 👋</h1>
 
+<div>
+<a href = "mailto:gabriel.m.oliveira03@outlook.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/monteirobiel/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+</div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielmonteiro0/)](https://www.linkedin.com/in/gabrielmonteiro0/)
-[![Gmail Badge](https://img.shields.io/badge/-gabriel.m.oliveira03@outlook.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel.m.oliveira03@outlook.com)](mailto:gabriel.m.oliveira03@gmail.com)
-
+<br>
 Software Engineer 👨‍💻 | Analysis and systems development 📚
+
 
 
 ## ⚡ Technologies & Tools
