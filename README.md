@@ -16,6 +16,6 @@ Software Engineering Student 👨‍💻
 
 
 ## 📚 What I'm currently studying.
-- I am currently focusing my studies in BackEnd development with Java and Spring thought [Alura](https://www.alura.com.br/) Courses and some free content on YouTube.
+- I am currently focusing my studies in FullStack development with JavaScript, TypeScript and NodeJs.
 - Also I am pushing a Bachelor's degree in Software Engenieering.
 
