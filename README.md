@@ -6,16 +6,15 @@
 </div>
 
 <br>
-Software Engineering Student 👨‍💻
+Full-Stack Student 👨‍💻
 
 
 
 ## ⚡ Technologies & Tools
 
-![Blog](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  ![Blog](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)   ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)   ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
+![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,html,css,nodejs,figma,java,spring,postgres,postman,git,github,vscode,idea)
 
 ## 📚 What I'm currently studying.
-- I am currently focusing my studies in FullStack development with JavaScript, TypeScript and NodeJs.
+- I am currently focusing my studies in FullStack development with JavaScript, TypeScript and frameworks.
 - Also I am pushing a Bachelor's degree in Software Engenieering.
 
